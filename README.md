@@ -1,7 +1,7 @@
 # Shiny App
 
 This is an R Shiny app
-https://mtwatson.shinyapps.io/G2P-datasets/
+https://tmdengapp.shinyapps.io/G2P-Datasets-test/
 
 ## Just to add datasets
 
