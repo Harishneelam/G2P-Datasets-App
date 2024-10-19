@@ -10,3 +10,5 @@ https://harish-neelam.shinyapps.io/DatasetAdderAPP/
 ## To do
 - Search bar has to search every row and every column
 - remove unnecessary columns in Datasets module.
+
+- Maybe display COPIED! When clicked the copy clip board
